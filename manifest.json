@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "description": "nmclean, delete node_modules in every subdirectory",
+  "author": "Faraz Syed <hello@farazsyed.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/HiFaraz/nmclean#readme",
+  "bugs": {
+    "url": "https://github.com/HiFaraz/nmclean/issues"
+  },
+  "git": "https://github.com/HiFaraz/nmclean",
+  "bin": {
+    "nmclean": "bin/nmclean.ps1"
+  }
+}
